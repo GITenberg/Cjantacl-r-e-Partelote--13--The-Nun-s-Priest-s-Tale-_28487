@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/144
     wikipedia: http://en.wikipedia.org/wiki/Geoffrey_Chaucer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28487#Cjantacl-r-e-Partelote--13--The-Nun-s-Priest-s-Tale-
 gutenberg_issued: '2009-04-03'
 gutenberg_type: Text
 identifiers:
