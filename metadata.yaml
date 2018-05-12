@@ -1,0 +1,33 @@
+_repo: Cjantacl-r-e-Partelote--13--The-Nun-s-Priest-s-Tale-_28487
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Culos, Ermes
+    gutenberg_agent_id: '33361'
+    url: http://www.gutenberg.org/2009/agents/33361
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chaucer, Geoffrey
+    alias: Chaucer, Jeffrey
+    birthdate: 1342
+    deathdate: 1400
+    gutenberg_agent_id: '144'
+    url: http://www.gutenberg.org/2009/agents/144
+    wikipedia: http://en.wikipedia.org/wiki/Geoffrey_Chaucer
+description: ''
+gutenberg_issued: '2009-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28487'
+language: fur
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Christian pilgrims and pilgrimages -- Poetry'
+title: "Cjantaclàr e Partelote\r\n(The Nun's Priest's Tale)"
+url: http://www.gutenberg.org/ebooks/28487
